@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/window-opener-simulator/static/css/main.f943c224.css",
+    "main.js": "/window-opener-simulator/static/js/main.61e522be.js",
+    "index.html": "/window-opener-simulator/index.html",
+    "main.f943c224.css.map": "/window-opener-simulator/static/css/main.f943c224.css.map",
+    "main.61e522be.js.map": "/window-opener-simulator/static/js/main.61e522be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f943c224.css",
+    "static/js/main.61e522be.js"
+  ]
+}
